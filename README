@@ -1,0 +1,13 @@
+Synopsis
+This is the poplar triplex Mendel Prusa project. The goal is to get a set of drawings that allow someone with access to a laser cutter to bootstrap a Mendel Prusa.
+
+Specific information
+The drawings will be optimised for A4 sized pieces of 3.7mm thick poplar triplex. This material is widely available at DIY stores at reasonable prices. It is not the cheapest material, but since it gives a fairly predictable and narrow cut compared to other types of triplex, it's price/performance ratio is good.
+
+Origin
+The original drawings came from the German RepRap Foundation (http:/www.grrf.de) website. However, this webshop no longer carries the Holzbau Mendel (as they called it), probably because it occupies a niche that doesn't make much economic sense in the wider RepRap ecosystem.
+
+License
+The RepRap design is GPL, which doesn't make much legal sense. However, in order to prevent endless shouting matches among geeks about the GPL, I dual license everything we add tot he original drawings as GPL/CC-BY-SA. Which still doesn't make a whole lot of sense, but is a transition path to going completely CC-BY-SA. Which still is suboptimal but is a bit less braindead than applying the GPL to hardware.
+
+Copyright 2012, Walter van Holst, GPL/CC-BY-SA 3.0 unported.
