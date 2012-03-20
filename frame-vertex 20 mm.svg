@@ -1,124 +1,1206 @@
-<?xml version="1.0" standalone="yes"?>
-
-<svg width="137mm" height="90mm" viewBox="0 0 137 90" version="1.1"
-xmlns="http://www.w3.org/2000/svg" style="stroke-linecap:round">
-  <path d="M44.0833,88.7918 L44.0833,88.7918" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M82.2415,5.44629 L84.2498,5.44629" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M82.2415,5.44629 L82.2415,17.4962" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M82.2415,17.4962 L84.2498,17.4962" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M84.2498,17.4962 L84.2498,21.5129" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M84.2498,5.44629 L84.2498,1.42963" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M84.2498,1.42963 L104.333,1.42963" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M104.333,21.5129 L84.2498,21.5129" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M104.333,5.44629 L104.333,1.42963" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M106.341,5.44629 L104.333,5.44629" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M104.333,17.4962 L104.333,21.5129" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M104.333,17.4962 L106.341,17.4962" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M106.341,17.4962 L106.341,5.44629" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <ellipse cx="94.2914" cy="11.4713" rx="4.21749" ry="4.21749" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none;"/>
-  <path d="M111.111,5.44629 L113.119,5.44629" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M111.111,5.44629 L111.111,17.4962" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M111.111,17.4962 L113.119,17.4962" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M113.119,17.4962 L113.119,21.5129" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M113.119,5.44629 L113.119,1.42963" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M113.119,1.42963 L133.203,1.42963" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M133.203,21.5129 L113.119,21.5129" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M133.203,5.44629 L133.203,1.42963" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M135.211,5.44629 L133.203,5.44629" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M133.203,17.4962 L133.203,21.5129" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M133.203,17.4962 L135.211,17.4962" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M135.211,17.4962 L135.211,5.44629" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <ellipse cx="123.161" cy="11.4713" rx="4.21749" ry="4.21749" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none;"/>
-  <path d="M111.111,27.5379 L113.119,27.5379" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M111.111,27.5379 L111.111,39.5878" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M111.111,39.5878 L113.119,39.5878" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M113.119,39.5878 L113.119,43.6045" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M113.119,27.5379 L113.119,23.5212" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M113.119,23.5212 L133.203,23.5212" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M133.203,43.6045 L113.119,43.6045" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M133.203,27.5379 L133.203,23.5212" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M135.211,27.5379 L133.203,27.5379" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M133.203,39.5878 L133.203,43.6045" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M133.203,39.5878 L135.211,39.5878" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M135.211,39.5878 L135.211,27.5379" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <ellipse cx="123.161" cy="33.5629" rx="4.21749" ry="4.21749" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none;"/>
-  <path d="M82.9946,27.5379 L85.0029,27.5379" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M82.9946,27.5379 L82.9946,39.5878" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M82.9946,39.5878 L85.0029,39.5878" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M85.0029,39.5878 L85.0029,43.6045" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M85.0029,27.5379 L85.0029,23.5212" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M85.0029,23.5212 L105.086,23.5212" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M105.086,43.6045 L85.0029,43.6045" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M105.086,27.5379 L105.086,23.5212" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M107.095,27.5379 L105.086,27.5379" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M105.086,39.5878 L105.086,43.6045" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M105.086,39.5878 L107.095,39.5878" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M107.095,39.5878 L107.095,27.5379" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <ellipse cx="95.0446" cy="33.5629" rx="4.21749" ry="4.21749" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none;"/>
-  <path d="M24,38.5837 L58.6235,38.5837" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M78.1902,27.2868 L81.5169,14.8715" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M75.5321,4.50551 L81.5169,14.8715" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M75.5321,4.50551 L62.9422,1.13205" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M45.2974,11.3193 L36.4306,11.3193" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M3.53776,27.2868 L0.211081,14.8715" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M6.19589,4.50551 L0.211081,14.8715" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M6.19589,4.50551 L18.7858,1.13205" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <ellipse cx="41.3118" cy="25.3287" rx="4.21749" ry="4.21749" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none;"/>
-  <ellipse cx="70.6978" cy="14.2076" rx="4.21749" ry="4.21749" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none;"/>
-  <ellipse cx="11.0302" cy="14.2072" rx="4.21749" ry="4.21749" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none;"/>
-  <ellipse cx="30.8685" cy="25.3287" rx="1.70708" ry="1.70708" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none;"/>
-  <ellipse cx="51.7551" cy="25.3287" rx="1.70708" ry="1.70708" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none;"/>
-  <path d="M18.7858,1.13205 L36.4306,11.3193" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M45.2974,11.3193 L62.9422,1.13205" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M58.6235,38.5837 L78.1902,27.2868" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M24,38.5837 L3.53776,27.2868" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M56.1962,31.869 L58.2046,35.3476" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M58.2046,35.3476 L75.5972,25.3059" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M75.5972,25.3059 L73.5889,21.8274" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M73.5889,21.8274 L56.1962,31.869" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M47.8017,17.3292 L65.1943,7.28758" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M65.1943,7.28758 L63.186,3.80906" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M63.186,3.80906 L45.7933,13.8507" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M45.7933,13.8507 L47.8017,17.3292" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M16.4377,7.32466 L34.0195,17.0313" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M34.0195,17.0313 L35.9608,13.5149" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M35.9608,13.5149 L18.379,3.8083" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M18.379,3.8083 L16.4377,7.32466" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M6.45143,25.4131 L24.0332,35.1197" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M24.0332,35.1197 L25.9745,31.6033" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M25.9745,31.6033 L8.39275,21.8967" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M8.39275,21.8967 L6.45143,25.4131" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M27.2193,77.3927 L61.8428,77.3927" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M81.4095,66.0959 L84.7362,53.6806" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M78.7514,43.3146 L84.7362,53.6806" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M78.7514,43.3146 L66.1615,39.9411" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M48.5166,50.1284 L39.6499,50.1284" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M6.75702,66.0959 L3.43035,53.6806" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M9.41516,43.3146 L3.43035,53.6806" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M9.41516,43.3146 L22.0051,39.9411" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <ellipse cx="44.531" cy="64.1378" rx="4.21749" ry="4.21749" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none;"/>
-  <ellipse cx="73.9171" cy="53.0167" rx="4.21749" ry="4.21749" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none;"/>
-  <ellipse cx="14.2494" cy="53.0163" rx="4.21749" ry="4.21749" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none;"/>
-  <ellipse cx="34.0877" cy="64.1378" rx="1.70708" ry="1.70708" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none;"/>
-  <ellipse cx="54.9743" cy="64.1378" rx="1.70708" ry="1.70708" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none;"/>
-  <path d="M22.0051,39.9411 L39.6499,50.1284" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M48.5166,50.1284 L66.1615,39.9411" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M61.8428,77.3927 L81.4095,66.0959" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M27.2193,77.3927 L6.75702,66.0959" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M59.4155,70.6781 L61.4238,74.1566" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M61.4238,74.1566 L78.8164,64.115" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M78.8164,64.115 L76.8081,60.6365" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M76.8081,60.6365 L59.4155,70.6781" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M51.0209,56.1383 L68.4135,46.0967" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M68.4135,46.0967 L66.4052,42.6181" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M66.4052,42.6181 L49.0126,52.6598" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M49.0126,52.6598 L51.0209,56.1383" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M19.657,46.1337 L37.2388,55.8403" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M37.2388,55.8403 L39.1801,52.324" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M39.1801,52.324 L21.5983,42.6174" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M21.5983,42.6174 L19.657,46.1337" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M9.6707,64.2221 L27.2525,73.9287" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M27.2525,73.9287 L29.1938,70.4124" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M29.1938,70.4124 L11.612,60.7058" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
-  <path d="M11.612,60.7058 L9.6707,64.2221" style="stroke:rgb(0,0,0);stroke-width:0.25;fill:none" />
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 2012-03-20 20:54:47 Generated by QCAD SVG Exporter PG -->
+<svg width="151.822mm" height="106.937mm" viewBox="-41.9475 -137.421 151.822 106.937" version="1.1" xmlns="http://www.w3.org/2000/svg" style="stroke-linecap:round;stroke-linejoin:round;fill:none" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+    <sodipodi:namedview inkscape:document-units="mm" unitToSymbol="mm" units="mm"/>
+    <g transform="scale(1,-1)">
+        <!-- Line -->
+        <line x1="20" y1="50" x2="20" y2="50" style="stroke:#ff0000;stroke-width:0.25;"/>
+        <!-- Block Reference -->
+        <g>
+            <!-- Circle -->
+            <circle cx="70" cy="127" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65" y1="120.7" x2="75" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="75" y1="117" x2="75" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65" y1="117" x2="65" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65" y1="133.3" x2="75" y2="133.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65" y1="133.3" x2="65" y2="137" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="75" y1="133.3" x2="75" y2="137" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="75" y1="137" x2="80" y2="137" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="75" y1="117" x2="80" y2="117" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60" y1="117" x2="65" y2="117" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60" y1="137" x2="65" y2="137" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60" y1="117" x2="60" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="80" y1="117" x2="80" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="80" y1="120.7" x2="81" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="80" y1="133.3" x2="81" y2="133.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="80" y1="133.3" x2="80" y2="137" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="81" y1="133.3" x2="81" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60" y1="133.3" x2="60" y2="137" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60" y1="133.3" x2="59" y2="133.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60" y1="120.7" x2="59" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="59" y1="120.7" x2="59" y2="133.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Circle -->
+            <circle cx="98.75" cy="127" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="93.75" y1="120.7" x2="103.75" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="103.75" y1="117" x2="103.75" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="93.75" y1="117" x2="93.75" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="93.75" y1="133.3" x2="103.75" y2="133.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="93.75" y1="133.3" x2="93.75" y2="137" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="103.75" y1="133.3" x2="103.75" y2="137" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="103.75" y1="137" x2="108.75" y2="137" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="103.75" y1="117" x2="108.75" y2="117" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="88.75" y1="117" x2="93.75" y2="117" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="88.75" y1="137" x2="93.75" y2="137" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="88.75" y1="117" x2="88.75" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="108.75" y1="117" x2="108.75" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="108.75" y1="120.7" x2="109.75" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="108.75" y1="133.3" x2="109.75" y2="133.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="108.75" y1="133.3" x2="108.75" y2="137" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="109.75" y1="133.3" x2="109.75" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="88.75" y1="133.3" x2="88.75" y2="137" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="88.75" y1="133.3" x2="87.75" y2="133.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="88.75" y1="120.7" x2="87.75" y2="120.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="87.75" y1="120.7" x2="87.75" y2="133.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Circle -->
+            <circle cx="98.75" cy="104.99999999999999" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="93.75" y1="98.69999999999999" x2="103.75" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="103.75" y1="94.99999999999999" x2="103.75" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="93.75" y1="94.99999999999999" x2="93.75" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="93.75" y1="111.29999999999998" x2="103.75" y2="111.29999999999998" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="93.75" y1="111.29999999999998" x2="93.75" y2="114.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="103.75" y1="111.29999999999998" x2="103.75" y2="114.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="103.75" y1="114.99999999999999" x2="108.75" y2="114.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="103.75" y1="94.99999999999999" x2="108.75" y2="94.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="88.75" y1="94.99999999999999" x2="93.75" y2="94.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="88.75" y1="114.99999999999999" x2="93.75" y2="114.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="88.75" y1="94.99999999999999" x2="88.75" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="108.75" y1="94.99999999999999" x2="108.75" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="108.75" y1="98.69999999999999" x2="109.75" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="108.75" y1="111.29999999999998" x2="109.75" y2="111.29999999999998" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="108.75" y1="111.29999999999998" x2="108.75" y2="114.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="109.75" y1="111.29999999999998" x2="109.75" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="88.75" y1="111.29999999999998" x2="88.75" y2="114.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="88.75" y1="111.29999999999998" x2="87.75" y2="111.29999999999998" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="88.75" y1="98.69999999999999" x2="87.75" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="87.75" y1="98.69999999999999" x2="87.75" y2="111.29999999999998" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Circle -->
+            <circle cx="70.75" cy="104.99999999999999" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65.74999999999999" y1="98.69999999999999" x2="75.75" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="75.75" y1="94.99999999999999" x2="75.75" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65.75" y1="94.99999999999999" x2="65.75" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65.75" y1="111.29999999999998" x2="75.75" y2="111.29999999999998" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65.74999999999999" y1="111.29999999999998" x2="65.74999999999999" y2="114.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="75.75" y1="111.29999999999998" x2="75.75" y2="114.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="75.75" y1="114.99999999999999" x2="80.75" y2="114.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="75.75" y1="94.99999999999999" x2="80.75" y2="94.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60.74999999999999" y1="94.99999999999999" x2="65.75" y2="94.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60.74999999999999" y1="114.99999999999999" x2="65.75" y2="114.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60.74999999999999" y1="94.99999999999999" x2="60.74999999999999" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="80.75" y1="94.99999999999999" x2="80.75" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="80.75" y1="98.69999999999999" x2="81.75" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="80.75" y1="111.29999999999998" x2="81.75" y2="111.29999999999998" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="80.75" y1="111.29999999999998" x2="80.75" y2="114.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="81.75" y1="111.29999999999998" x2="81.75" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60.74999999999999" y1="111.29999999999998" x2="60.74999999999999" y2="114.99999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60.74999999999999" y1="111.29999999999998" x2="59.74999999999999" y2="111.29999999999998" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60.74999999999999" y1="98.69999999999999" x2="59.74999999999999" y2="98.69999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="59.74999999999999" y1="98.69999999999999" x2="59.74999999999999" y2="111.29999999999998" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Line -->
+            <line x1="53.96557158514986" y1="111.25" x2="57.278455362462125" y2="123.61385057650008" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="51.31845536246213" y1="133.9368733896106" x2="57.278455362462125" y2="123.6138505765001" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="51.31845536246213" y1="133.9368733896106" x2="38.78073813723004" y2="137.29634459504135" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-20.377406196262353" y1="111.25" x2="-23.690289973574618" y2="123.61385057650006" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-17.73028997357461" y1="133.93687338961067" x2="-23.690289973574618" y2="123.61385057650011" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-17.73028997357461" y1="133.93687338961067" x2="-5.192572748342521" y2="137.29634459504135" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Circle -->
+            <circle cx="17.24" cy="113.2" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Circle -->
+            <circle cx="46.5042" cy="124.275" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Circle -->
+            <circle cx="-12.916061339514663" cy="124.27536198305542" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Circle -->
+            <circle cx="6.839999999999998" cy="113.2" r="1.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Circle -->
+            <circle cx="27.64" cy="113.2" r="1.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-17.15487947233842" y1="113.69732226335375" x2="-18.943154335397555" y2="110.4581753055652" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="51.03303983041931" y1="113.82929399400243" x2="52.88303983041931" y2="110.625" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="38.04265877365273" y1="106.32929399400243" x2="39.89265877365274" y2="103.125" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="46.702912811497114" y1="111.32929399400243" x2="48.55291281149711" y2="108.125" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-12.777653853705232" y1="111.28073461057116" x2="-14.565928716764361" y2="108.0415876527826" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-17.15487947233842" y1="113.69732226335375" x2="-12.777653853705232" y2="111.28073461057116" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-18.943154335397555" y1="110.4581753055652" x2="-20.377406196262353" y2="111.25" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="0" y1="100" x2="-1.434251860864812" y2="100.7918246944348" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-5.8114774794979915" y1="103.2084123472174" x2="-14.565928716764361" y2="108.0415876527826" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="33.712531754730534" y1="103.82929399400243" x2="35.56253175473054" y2="100.625" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="7.239999999999998" y1="109" x2="7.239999999999998" y2="105.30000000000001" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="7.239999999999998" y1="109" x2="7.239999999999998" y2="105.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="7.239999999999998" y1="105.3" x2="12.239999999999998" y2="105.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="12.239999999999998" y1="105.3" x2="12.239999999999998" y2="109" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="12.239999999999998" y1="109" x2="7.239999999999998" y2="109" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="22.24" y1="109" x2="22.24" y2="105.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="22.24" y1="105.3" x2="27.24" y2="105.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="27.24" y1="105.3" x2="27.24" y2="109" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="27.24" y1="109" x2="22.24" y2="109" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="7.239999999999998" y1="103.7" x2="7.239999999999998" y2="100" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="12.239999999999998" y1="100" x2="12.239999999999998" y2="103.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="12.239999999999998" y1="103.7" x2="7.239999999999998" y2="103.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="7.239999999999998" y1="100" x2="0" y2="100" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="12.239999999999998" y1="100" x2="22.24" y2="100" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="27.24" y1="100" x2="34.48" y2="100" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="22.24" y1="103.7" x2="27.24" y2="103.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="27.24" y1="103.7" x2="27.24" y2="100" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="22.24" y1="109" x2="27.24" y2="109" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="27.24" y1="109" x2="27.24" y2="105.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="27.24" y1="105.3" x2="22.24" y2="105.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="22.24" y1="105.3" x2="22.24" y2="109" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="22.24" y1="100" x2="22.24" y2="103.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="38.65516445368128" y1="137.22384459504136" x2="38.78073813723004" y2="137.29634459504135" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-4.376706455297132" y1="136.84274644240887" x2="-5.192572748342521" y2="137.29634459504135" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-4.023202616438862" y1="106.44755930500595" x2="0.35402300219431737" y2="104.03097165222334" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-4.023202616438862" y1="106.44755930500595" x2="-5.8114774794979915" y2="103.2084123472174" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="0.35402300219431737" y1="104.03097165222334" x2="-1.434251860864812" y2="100.7918246944348" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-16.188244411225373" y1="115.44821251080704" x2="-11.81101879259219" y2="113.03162485802443" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-14.39996954816624" y1="118.68735946859559" x2="-10.02274392953306" y2="116.27077181581298" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-16.188244411225373" y1="115.44821251080704" x2="-14.39996954816624" y2="118.68735946859559" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-11.81101879259219" y1="113.03162485802443" x2="-10.02274392953306" y2="116.27077181581298" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-3.0565675553258203" y1="108.19844955245922" x2="1.3206580633073681" y2="105.78186189967661" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-1.2682926922666908" y1="111.43759651024779" x2="3.1089329263664993" y2="109.02100885746518" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-3.0565675553258203" y1="108.19844955245922" x2="-1.2682926922666908" y2="111.43759651024779" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="1.3206580633073681" y1="105.78186189967661" x2="3.1089329263664993" y2="109.02100885746518" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-0.0530867870527203" y1="134.3290609917944" x2="8.70136445021365" y2="129.4958856862292" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-1.8413616501118426" y1="131.08991403400583" x2="-6.218587268745033" y2="133.50650168678843" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-6.218587268745033" y1="133.50650168678843" x2="-4.376706455297143" y2="136.84274644240887" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-0.0530867870527203" y1="134.3290609917944" x2="-1.8413616501118426" y2="131.08991403400583" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="8.701364450213651" y1="129.4958856862292" x2="6.913089587154529" y2="126.25673872844064" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="8.701364450213651" y1="129.4958856862292" x2="6.913089587154529" y2="126.25673872844064" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="13.07859006884684" y1="127.0792980334466" x2="11.290315205787717" y2="123.84015107565803" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="6.913089587154529" y1="126.25673872844064" x2="11.290315205787717" y2="123.84015107565803" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-2.8079967112248916" y1="129.33902378655256" x2="-7.185222329858082" y2="131.75561143933515" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="5.946454526041489" y1="124.50584848098735" x2="10.323680144674679" y2="122.08926082820476" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-4.59627157428401" y1="126.099876828764" x2="-8.9734971929172" y2="128.5164644815466" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="4.158179662982368" y1="121.26670152319879" x2="8.535405281615557" y2="118.8501138704162" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-7.185222329858082" y1="131.75561143933515" x2="-8.9734971929172" y2="128.5164644815466" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-4.59627157428401" y1="126.099876828764" x2="-2.807996711224881" y2="129.33902378655256" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="10.323680144674679" y1="122.08926082820476" x2="8.535405281615557" y2="118.8501138704162" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="4.158179662982359" y1="121.2667015231988" x2="5.946454526041478" y2="124.50584848098735" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="34.47999999999999" y1="100" x2="35.56253175473055" y2="100.625" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="35.56253175473055" y1="100.625" x2="33.71253175473055" y2="103.82929399400243" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="33.71253175473055" y1="103.82929399400243" x2="38.04265877365274" y2="106.32929399400241" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="38.04265877365274" y1="106.32929399400241" x2="39.89265877365273" y2="103.125" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="39.89265877365273" y1="103.125" x2="48.55291281149712" y2="108.125" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="48.55291281149712" y1="108.125" x2="46.702912811497114" y2="111.32929399400241" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="46.702912811497114" y1="111.32929399400241" x2="51.03303983041931" y2="113.82929399400241" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="51.03303983041931" y1="113.82929399400241" x2="52.88303983041929" y2="110.625" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="52.88303983041929" y1="110.625" x2="53.96557158514986" y2="111.25" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="32.71253175473055" y1="105.5613448015713" x2="37.04265877365274" y2="108.0613448015713" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="45.702912811497114" y1="113.0613448015713" x2="50.03303983041931" y2="115.5613448015713" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="43.85291281149712" y1="116.26563879557372" x2="48.183039830419304" y2="118.76563879557372" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="30.862531754730547" y1="108.76563879557372" x2="35.19265877365274" y2="111.26563879557372" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="32.71253175473055" y1="105.5613448015713" x2="30.862531754730547" y2="108.76563879557372" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="37.04265877365274" y1="108.0613448015713" x2="35.19265877365274" y2="111.26563879557372" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="43.85291281149712" y1="116.26563879557372" x2="45.702912811497114" y2="113.0613448015713" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="48.18303983041932" y1="118.76563879557372" x2="50.03303983041931" y2="115.5613448015713" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="33.4783064020025" y1="134.23498420534813" x2="24.818052364158113" y2="129.23498420534813" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="24.81805236415811" y1="129.23498420534813" x2="26.66805236415811" y2="126.0306902113457" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="26.66805236415811" y1="126.0306902113457" x2="22.337925345235917" y2="123.53069021134571" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="33.4783064020025" y1="134.23498420534813" x2="35.3283064020025" y2="131.0306902113457" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="35.3283064020025" y1="131.0306902113457" x2="39.65843342092469" y2="133.5306902113457" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="38.78073813723004" y1="137.29634459504135" x2="37.8084334209247" y2="136.7349842053481" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="37.8084334209247" y1="136.7349842053481" x2="39.65843342092469" y2="133.5306902113457" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="20.487925345235915" y1="126.73498420534813" x2="22.337925345235917" y2="123.5306902113457" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="27.668052364158108" y1="124.29863940377682" x2="23.337925345235913" y2="121.79863940377683" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="36.32830640200251" y1="129.29863940377683" x2="40.65843342092469" y2="131.79863940377683" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="29.5180523641581" y1="121.09434540977439" x2="25.187925345235904" y2="118.5943454097744" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="38.178306402002505" y1="126.0943454097744" x2="42.5084334209247" y2="128.5943454097744" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="23.337925345235913" y1="121.79863940377683" x2="23.337925345235913" y2="121.79863940377683" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="23.337925345235913" y1="121.79863940377683" x2="25.187925345235904" y2="118.5943454097744" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="29.5180523641581" y1="121.09434540977439" x2="27.668052364158108" y2="124.29863940377682" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="38.178306402002505" y1="126.0943454097744" x2="36.32830640200251" y2="129.29863940377683" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="42.50843342092469" y1="128.5943454097744" x2="40.65843342092469" y2="131.79863940377683" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="13.07859006884685" y1="127.0792980334466" x2="17.24" y2="127.0792980334466" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="15.99351744333907" y1="127.0792980334466" x2="20.15492744333907" y2="127.0792980334466" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="20.487925345235915" y1="126.73498420534813" x2="20.154927443339073" y2="127.0792980334466" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="19.74" y1="119.2" x2="14.739999999999998" y2="119.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="19.74" y1="119.2" x2="19.74" y2="122.9" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="14.739999999999998" y1="119.2" x2="14.739999999999998" y2="122.9" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="14.739999999999998" y1="122.9" x2="19.74" y2="122.9" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-7.517058507854852" y1="115.86047581539802" x2="-3.155655204563857" y2="113.41544795747035" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-3.155655204563857" y1="113.41544795747035" x2="-1.3463345896973706" y2="116.64288640190567" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-1.3463345896973706" y1="116.64288640190567" x2="-5.707737892988366" y2="119.08791425983335" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-5.707737892988366" y1="119.08791425983335" x2="-7.517058507854852" y2="115.86047581539802" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-4.729726749817289" y1="120.83247558114975" x2="-2.920406134950806" y2="124.05991402558509" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-2.920406134950806" y1="124.05991402558509" x2="1.4409971683401874" y2="121.6148861676574" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="1.4409971683401874" y1="121.6148861676574" x2="-0.36832344652630056" y2="118.38744772322207" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-0.36832344652630056" y1="118.38744772322207" x2="-4.729726749817289" y2="120.83247558114975" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="32.536639290567656" y1="121.52489953239493" x2="34.40990026665712" y2="118.33414831748325" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="34.40990026665712" y1="118.33414831748325" x2="38.72172623275398" y2="120.8655820689555" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="38.72172623275398" y1="120.8655820689555" x2="36.84846525666452" y2="124.05633328386718" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="36.84846525666452" y1="124.05633328386718" x2="32.536639290567656" y2="121.52489953239493" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="37.29573474333548" y1="113.41866671613283" x2="35.42247376724602" y2="116.6094179310445" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="35.42247376724602" y1="116.6094179310445" x2="39.73429973334288" y2="119.14085168251675" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="39.73429973334288" y1="119.14085168251675" x2="41.60756070943235" y2="115.95010046760507" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="41.60756070943235" y1="115.95010046760507" x2="37.29573474333548" y2="113.41866671613283" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Line -->
+            <line x1="57.1714888907061" y1="72.60182770247933" x2="60.484372668018366" y2="84.96567827897941" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="54.52437266801837" y1="95.28870109208994" x2="60.484372668018366" y2="84.96567827897942" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="54.52437266801837" y1="95.28870109208994" x2="41.98665544278628" y2="98.64817229752067" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-17.17148889070611" y1="72.60182770247933" x2="-20.484372668018377" y2="84.96567827897938" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-14.52437266801837" y1="95.28870109209" x2="-20.484372668018377" y2="84.96567827897944" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-14.52437266801837" y1="95.28870109209" x2="-1.9866554427862795" y2="98.64817229752067" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Circle -->
+            <circle cx="20.44591730555624" cy="74.55182770247933" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Circle -->
+            <circle cx="49.71011730555624" cy="85.62682770247933" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Circle -->
+            <circle cx="-9.710144033958422" cy="85.62718968553474" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Circle -->
+            <circle cx="10.04591730555624" cy="74.55182770247933" r="1.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Circle -->
+            <circle cx="30.84591730555624" cy="74.55182770247933" r="1.7" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-13.948962166782177" y1="75.04914996583308" x2="-15.737237029841314" y2="71.81000300804453" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="54.238957135975554" y1="75.18112169648175" x2="56.08895713597555" y2="71.97682770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="41.24857607920897" y1="67.68112169648175" x2="43.09857607920898" y2="64.47682770247931" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="49.908830117053355" y1="72.68112169648175" x2="51.75883011705335" y2="69.47682770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-9.57173654814899" y1="72.63256231305049" x2="-11.36001141120812" y2="69.39341535526192" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-13.948962166782177" y1="75.04914996583308" x2="-9.57173654814899" y2="72.63256231305049" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-15.737237029841314" y1="71.81000300804453" x2="-17.17148889070611" y2="72.60182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="3.205917305556241" y1="61.351827702479326" x2="1.771665444691429" y2="62.14365239691412" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-2.6055601739417504" y1="64.56024004969673" x2="-11.36001141120812" y2="69.39341535526192" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="36.918449060286775" y1="65.18112169648175" x2="38.768449060286784" y2="61.97682770247932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="10.44591730555624" y1="70.35182770247933" x2="10.44591730555624" y2="66.65182770247932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="10.44591730555624" y1="70.35182770247933" x2="10.44591730555624" y2="66.65182770247932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="10.44591730555624" y1="66.65182770247932" x2="15.44591730555624" y2="66.65182770247932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="15.44591730555624" y1="66.65182770247932" x2="15.44591730555624" y2="70.35182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="15.44591730555624" y1="70.35182770247933" x2="10.44591730555624" y2="70.35182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="25.44591730555624" y1="70.35182770247933" x2="25.44591730555624" y2="66.65182770247932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="25.44591730555624" y1="66.65182770247932" x2="30.44591730555624" y2="66.65182770247932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="30.44591730555624" y1="66.65182770247932" x2="30.44591730555624" y2="70.35182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="30.44591730555624" y1="70.35182770247933" x2="25.44591730555624" y2="70.35182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="10.44591730555624" y1="65.05182770247933" x2="10.44591730555624" y2="61.351827702479326" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="15.44591730555624" y1="61.351827702479326" x2="15.44591730555624" y2="65.05182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="15.44591730555624" y1="65.05182770247933" x2="10.44591730555624" y2="65.05182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="10.44591730555624" y1="61.351827702479326" x2="3.205917305556241" y2="61.351827702479326" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="15.44591730555624" y1="61.351827702479326" x2="25.44591730555624" y2="61.351827702479326" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="30.44591730555624" y1="61.351827702479326" x2="37.68591730555624" y2="61.351827702479326" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="25.44591730555624" y1="65.05182770247933" x2="30.44591730555624" y2="65.05182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="30.44591730555624" y1="65.05182770247933" x2="30.44591730555624" y2="61.351827702479326" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="25.44591730555624" y1="70.35182770247933" x2="30.44591730555624" y2="70.35182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="30.44591730555624" y1="70.35182770247933" x2="30.44591730555624" y2="66.65182770247932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="30.44591730555624" y1="66.65182770247932" x2="25.44591730555624" y2="66.65182770247932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="25.44591730555624" y1="66.65182770247932" x2="25.44591730555624" y2="70.35182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="25.44591730555624" y1="61.351827702479326" x2="25.44591730555624" y2="65.05182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="41.86108175923752" y1="98.57567229752068" x2="41.98665544278628" y2="98.64817229752067" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-1.1707891497408909" y1="98.19457414488821" x2="-1.9866554427862795" y2="98.64817229752067" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-0.817285310882621" y1="67.79938700748528" x2="3.5599403077505585" y2="65.38279935470267" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-0.817285310882621" y1="67.79938700748528" x2="-2.6055601739417504" y2="64.56024004969673" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="3.5599403077505585" y1="65.38279935470267" x2="1.771665444691429" y2="62.14365239691412" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-12.982327105669132" y1="76.80004021328637" x2="-8.605101487035949" y2="74.38345256050376" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-11.194052242609999" y1="80.03918717107491" x2="-6.816826623976819" y2="77.6225995182923" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-12.982327105669132" y1="76.80004021328637" x2="-11.194052242609999" y2="80.03918717107491" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-8.605101487035949" y1="74.38345256050376" x2="-6.816826623976819" y2="77.6225995182923" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="0.14934975023042085" y1="69.55027725493855" x2="4.526575368863609" y2="67.13368960215594" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="1.9376246132895503" y1="72.78942421272711" x2="6.31485023192274" y2="70.3728365599445" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="0.14934975023042085" y1="69.55027725493855" x2="1.9376246132895503" y2="72.78942421272711" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="4.526575368863609" y1="67.13368960215594" x2="6.31485023192274" y2="70.3728365599445" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="3.152830518503521" y1="95.68088869427372" x2="11.90728175576989" y2="90.84771338870851" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="1.3645556554443985" y1="92.44174173648516" x2="-3.0126699631887917" y2="94.85832938926777" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-3.0126699631887917" y1="94.85832938926777" x2="-1.1707891497409015" y2="98.19457414488821" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="3.152830518503521" y1="95.68088869427372" x2="1.3645556554443985" y2="92.44174173648516" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="11.907281755769892" y1="90.84771338870851" x2="10.11900689271077" y2="87.60856643091996" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="11.907281755769892" y1="90.84771338870851" x2="10.11900689271077" y2="87.60856643091996" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="16.28450737440308" y1="88.43112573592593" x2="14.496232511343958" y2="85.19197877813735" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="10.11900689271077" y1="87.60856643091996" x2="14.496232511343958" y2="85.19197877813735" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="0.3979205943313495" y1="90.69085148903187" x2="-3.9793050243018406" y2="93.1074391418145" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="9.15237183159773" y1="85.85767618346668" x2="13.52959745023092" y2="83.44108853068408" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-1.3903542687277692" y1="87.45170453124334" x2="-5.767579887360959" y2="89.86829218402593" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="7.364096968538609" y1="82.61852922567812" x2="11.741322587171798" y2="80.20194157289552" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-3.9793050243018406" y1="93.1074391418145" x2="-5.767579887360959" y2="89.86829218402593" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-1.3903542687277692" y1="87.45170453124332" x2="0.3979205943313602" y2="90.69085148903187" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="13.52959745023092" y1="83.44108853068408" x2="11.741322587171798" y2="80.20194157289552" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="7.3640969685386" y1="82.61852922567813" x2="9.15237183159772" y2="85.85767618346668" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="37.68591730555623" y1="61.351827702479326" x2="38.76844906028679" y2="61.976827702479326" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="38.76844906028679" y1="61.976827702479326" x2="36.91844906028679" y2="65.18112169648174" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="36.91844906028679" y1="65.18112169648174" x2="41.24857607920898" y2="67.68112169648174" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="41.24857607920898" y1="67.68112169648174" x2="43.09857607920897" y2="64.47682770247931" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="43.09857607920897" y1="64.47682770247931" x2="51.758830117053364" y2="69.47682770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="51.758830117053364" y1="69.47682770247933" x2="49.908830117053355" y2="72.68112169648174" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="49.908830117053355" y1="72.68112169648174" x2="54.238957135975554" y2="75.18112169648174" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="54.238957135975554" y1="75.18112169648174" x2="56.088957135975534" y2="71.97682770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="56.088957135975534" y1="71.97682770247933" x2="57.1714888907061" y2="72.60182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="35.91844906028679" y1="66.91317250405062" x2="40.24857607920898" y2="69.41317250405062" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="48.908830117053355" y1="74.41317250405062" x2="53.238957135975554" y2="76.91317250405062" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="47.05883011705336" y1="77.61746649805305" x2="51.388957135975545" y2="80.11746649805305" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="34.06844906028679" y1="70.11746649805305" x2="38.39857607920898" y2="72.61746649805305" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="35.91844906028679" y1="66.91317250405062" x2="34.06844906028679" y2="70.11746649805305" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="40.24857607920898" y1="69.41317250405062" x2="38.39857607920898" y2="72.61746649805305" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="47.05883011705336" y1="77.61746649805305" x2="48.908830117053355" y2="74.41317250405062" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="51.38895713597556" y1="80.11746649805305" x2="53.238957135975554" y2="76.91317250405062" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="36.68422370755874" y1="95.58681190782747" x2="28.023969669714354" y2="90.58681190782747" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="28.02396966971435" y1="90.58681190782747" x2="29.873969669714352" y2="87.38251791382503" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="29.873969669714352" y1="87.38251791382503" x2="25.543842650792158" y2="84.88251791382504" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="36.68422370755874" y1="95.58681190782745" x2="38.53422370755874" y2="92.38251791382501" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="38.53422370755874" y1="92.38251791382501" x2="42.86435072648093" y2="94.88251791382503" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="41.98665544278628" y1="98.64817229752067" x2="41.01435072648094" y2="98.08681190782744" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="41.01435072648094" y1="98.08681190782744" x2="42.86435072648093" y2="94.88251791382503" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="23.693842650792156" y1="88.08681190782745" x2="25.543842650792158" y2="84.88251791382503" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="30.87396966971435" y1="85.65046710625614" x2="26.543842650792154" y2="83.15046710625616" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="39.53422370755875" y1="90.65046710625614" x2="43.86435072648093" y2="93.15046710625616" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="32.723969669714336" y1="82.44617311225372" x2="28.393842650792145" y2="79.94617311225373" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="41.384223707558746" y1="87.44617311225373" x2="45.714350726480944" y2="89.94617311225375" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="26.543842650792154" y1="83.15046710625616" x2="26.543842650792154" y2="83.15046710625616" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="26.543842650792154" y1="83.15046710625616" x2="28.393842650792145" y2="79.94617311225373" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="32.723969669714336" y1="82.44617311225372" x2="30.87396966971435" y2="85.65046710625614" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="41.384223707558746" y1="87.44617311225373" x2="39.53422370755875" y2="90.65046710625614" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="45.71435072648093" y1="89.94617311225373" x2="43.86435072648093" y2="93.15046710625614" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="16.28450737440309" y1="88.43112573592593" x2="20.44591730555624" y2="88.43112573592593" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="19.19943474889531" y1="88.43112573592593" x2="23.36084474889531" y2="88.43112573592593" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="23.693842650792156" y1="88.08681190782745" x2="23.360844748895314" y2="88.43112573592593" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="22.94591730555624" y1="80.55182770247933" x2="17.94591730555624" y2="80.55182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="22.94591730555624" y1="80.55182770247933" x2="22.94591730555624" y2="84.25182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="17.94591730555624" y1="80.55182770247933" x2="17.94591730555624" y2="84.25182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="17.94591730555624" y1="84.25182770247933" x2="22.94591730555624" y2="84.25182770247933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-4.311141202298611" y1="77.21230351787734" x2="0.05026210099238426" y2="74.76727565994968" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="0.05026210099238426" y1="74.76727565994968" x2="1.8595827158588705" y2="77.994714104385" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="1.8595827158588705" y1="77.994714104385" x2="-2.5018205874321247" y2="80.43974196231268" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-2.5018205874321247" y1="80.43974196231268" x2="-4.311141202298611" y2="77.21230351787734" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-1.5238094442610475" y1="82.18430328362908" x2="0.2855111706054352" y2="85.41174172806441" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="0.2855111706054352" y1="85.41174172806441" x2="4.6469144738964285" y2="82.96671387013673" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="4.6469144738964285" y1="82.96671387013673" x2="2.8375938590299405" y2="79.7392754257014" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="2.8375938590299405" y1="79.7392754257014" x2="-1.5238094442610475" y2="82.18430328362908" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="35.7425565961239" y1="82.87672723487425" x2="37.61581757221336" y2="79.68597601996258" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="37.61581757221336" y1="79.68597601996258" x2="41.92764353831022" y2="82.21740977143483" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="41.92764353831022" y1="82.21740977143483" x2="40.05438256222076" y2="85.4081609863465" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="40.05438256222076" y1="85.4081609863465" x2="35.7425565961239" y2="82.87672723487427" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="40.50165204889172" y1="74.77049441861216" x2="38.62839107280226" y2="77.96124563352383" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="38.62839107280226" y1="77.96124563352383" x2="42.94021703889912" y2="80.49267938499608" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="42.94021703889912" y1="80.49267938499608" x2="44.81347801498859" y2="77.3019281700844" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="44.81347801498859" y1="77.3019281700844" x2="40.50165204889172" y2="74.77049441861216" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Circle -->
+            <circle cx="71.32214743712868" cy="81.70489688404768" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="77.62214743712867" y1="76.70489688404768" x2="77.62214743712867" y2="86.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="81.32214743712863" y1="86.70489688404768" x2="77.62214743712867" y2="86.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="81.32214743712868" y1="76.70489688404768" x2="77.62214743712867" y2="76.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65.02214743712868" y1="76.70489688404768" x2="65.02214743712868" y2="86.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65.02214743712868" y1="76.70489688404768" x2="61.32214743712868" y2="76.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65.02214743712868" y1="86.70489688404768" x2="61.32214743712868" y2="86.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="61.32214743712868" y1="86.70489688404768" x2="61.32214743712868" y2="91.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="81.32214743712863" y1="86.70489688404768" x2="81.32214743712873" y2="91.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="81.32214743712868" y1="71.70489688404768" x2="81.32214743712868" y2="76.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="61.32214743712868" y1="71.70489688404768" x2="61.32214743712868" y2="76.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="81.32214743712868" y1="71.70489688404768" x2="77.62214743712867" y2="71.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="81.32214743712873" y1="91.70489688404768" x2="77.62214743712869" y2="91.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="77.62214743712869" y1="91.70489688404768" x2="77.62214743712867" y2="92.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65.02214743712868" y1="91.70489688404768" x2="65.02214743712868" y2="92.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65.02214743712868" y1="91.70489688404768" x2="61.32214743712868" y2="91.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65.02214743712868" y1="92.70489688404768" x2="77.62214743712867" y2="92.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65.02214743712868" y1="71.70489688404768" x2="61.32214743712868" y2="71.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="65.02214743712868" y1="71.70489688404768" x2="65.02214743712868" y2="70.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="77.62214743712867" y1="71.70489688404768" x2="77.62214743712867" y2="70.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="77.62214743712867" y1="70.70489688404768" x2="65.02214743712868" y2="70.70489688404768" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Circle -->
+            <circle cx="97.01345988211055" cy="78.20153609609557" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="102.01345988211055" y1="84.50153609609556" x2="92.01345988211057" y2="84.50153609609558" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="92.01345988211054" y1="88.20153609609554" x2="92.01345988211057" y2="84.50153609609558" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="102.0134598821106" y1="88.2015360960956" x2="102.01345988211055" y2="84.50153609609558" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="102.01345988211055" y1="71.90153609609557" x2="92.01345988211055" y2="71.90153609609557" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="102.01345988211054" y1="71.90153609609557" x2="102.01345988211057" y2="68.20153609609558" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="92.01345988211055" y1="71.90153609609557" x2="92.01345988211057" y2="68.20153609609557" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="107.01345988211057" y1="88.2015360960956" x2="107.01345988211058" y2="84.50153609609558" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="87.01345988211057" y1="88.20153609609564" x2="87.01345988211057" y2="84.50153609609559" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="87.01345988211057" y1="84.50153609609559" x2="86.01345988211057" y2="84.50153609609556" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="87.01345988211057" y1="71.90153609609558" x2="86.01345988211055" y2="71.90153609609558" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="87.01345988211057" y1="71.90153609609558" x2="87.01345988211055" y2="68.20153609609557" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="86.01345988211055" y1="71.90153609609558" x2="86.01345988211057" y2="84.50153609609556" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="107.01345988211057" y1="71.90153609609558" x2="107.01345988211057" y2="68.20153609609558" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="107.01345988211057" y1="71.90153609609558" x2="108.01345988211057" y2="71.90153609609557" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="107.01345988211058" y1="84.50153609609558" x2="108.01345988211057" y2="84.50153609609558" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="108.01345988211057" y1="84.50153609609558" x2="108.01345988211057" y2="71.90153609609557" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="92.01345988211054" y1="88.20153609609554" x2="102.0134598821106" y2="88.2015360960956" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="107.01345988211057" y1="88.2015360960956" x2="108.01345988211057" y2="88.20153609609558" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="87.01345988211057" y1="88.20153609609564" x2="86.01345988211055" y2="88.20153609609562" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="86.01345988211055" y1="88.20153609609562" x2="86.01345988211057" y2="93.20153609609565" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="108.01345988211057" y1="88.20153609609558" x2="108.01345988211057" y2="93.20153609609558" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="86.01345988211057" y1="93.20153609609565" x2="108.01345988211057" y2="93.20153609609558" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="87.01345988211055" y1="68.20153609609557" x2="86.01345988211057" y2="68.2015360960956" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="107.01345988211057" y1="68.20153609609557" x2="108.01345988211057" y2="68.20153609609557" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="92.01345988211057" y1="68.20153609609557" x2="102.01345988211057" y2="68.20153609609558" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="86.01345988211057" y1="68.2015360960956" x2="86.01345988211057" y2="63.20153609609559" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="108.01345988211057" y1="68.20153609609557" x2="108.01345988211055" y2="63.20153609609557" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="86.01345988211057" y1="63.20153609609559" x2="108.01345988211055" y2="63.20153609609557" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Circle -->
+            <circle cx="96.48264764151166" cy="47.30826369324549" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="101.48264764151166" y1="53.60826369324549" x2="91.48264764151168" y2="53.608263693245505" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="91.48264764151165" y1="57.30826369324545" x2="91.48264764151168" y2="53.608263693245505" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="101.4826476415117" y1="57.30826369324552" x2="101.48264764151166" y2="53.608263693245505" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="101.48264764151166" y1="41.00826369324549" x2="91.48264764151166" y2="41.008263693245496" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="101.48264764151165" y1="41.008263693245496" x2="101.48264764151168" y2="37.30826369324551" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="91.48264764151166" y1="41.008263693245496" x2="91.48264764151168" y2="37.30826369324549" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="106.48264764151168" y1="57.30826369324551" x2="106.48264764151169" y2="53.60826369324549" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="86.48264764151168" y1="57.308263693245564" x2="86.48264764151168" y2="53.60826369324552" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="86.48264764151168" y1="53.60826369324552" x2="85.48264764151168" y2="53.60826369324549" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="86.48264764151168" y1="41.00826369324551" x2="85.48264764151166" y2="41.008263693245496" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="86.48264764151168" y1="41.00826369324551" x2="86.48264764151166" y2="37.30826369324549" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="85.48264764151166" y1="41.008263693245496" x2="85.48264764151168" y2="53.60826369324549" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="106.48264764151168" y1="41.0082636932455" x2="106.48264764151168" y2="37.30826369324551" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="106.48264764151168" y1="41.0082636932455" x2="107.48264764151168" y2="41.00826369324549" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="106.48264764151169" y1="53.60826369324549" x2="107.48264764151168" y2="53.608263693245505" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="107.48264764151168" y1="53.608263693245505" x2="107.48264764151168" y2="41.00826369324549" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="91.48264764151165" y1="57.30826369324545" x2="101.4826476415117" y2="57.30826369324552" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="106.48264764151168" y1="57.30826369324551" x2="107.48264764151168" y2="57.30826369324551" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="86.48264764151168" y1="57.308263693245564" x2="85.48264764151166" y2="57.30826369324555" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="85.48264764151166" y1="57.30826369324555" x2="85.48264764151168" y2="62.308263693245564" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="107.48264764151168" y1="57.30826369324551" x2="107.48264764151168" y2="62.30826369324551" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="85.48264764151168" y1="62.308263693245564" x2="107.48264764151168" y2="62.30826369324551" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="86.48264764151166" y1="37.30826369324549" x2="85.48264764151168" y2="37.308263693245515" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="106.48264764151168" y1="37.30826369324549" x2="107.48264764151168" y2="37.30826369324549" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="91.48264764151168" y1="37.30826369324549" x2="101.48264764151168" y2="37.30826369324551" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="85.48264764151168" y1="37.308263693245515" x2="85.48264764151168" y2="32.30826369324551" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="107.48264764151168" y1="37.30826369324549" x2="107.48264764151166" y2="32.3082636932455" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="85.48264764151168" y1="32.30826369324551" x2="107.48264764151166" y2="32.3082636932455" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Circle -->
+            <circle cx="71.85295967772743" cy="53.57184813231132" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="76.85295967772743" y1="59.871848132311314" x2="66.85295967772744" y2="59.87184813231133" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="66.85295967772741" y1="63.571848132311274" x2="66.85295967772744" y2="59.87184813231133" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="76.85295967772747" y1="63.57184813231134" x2="76.85295967772743" y2="59.87184813231133" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="76.85295967772743" y1="47.271848132311305" x2="66.85295967772743" y2="47.27184813231131" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="76.85295967772741" y1="47.27184813231131" x2="76.85295967772744" y2="43.571848132311324" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="66.85295967772743" y1="47.27184813231131" x2="66.85295967772743" y2="43.57184813231131" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="81.85295967772744" y1="63.57184813231133" x2="81.85295967772745" y2="59.871848132311314" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="61.85295967772744" y1="63.57184813231138" x2="61.85295967772744" y2="59.871848132311335" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="61.85295967772744" y1="59.871848132311335" x2="60.85295967772743" y2="59.871848132311314" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="61.85295967772744" y1="47.271848132311334" x2="60.852959677727426" y2="47.27184813231132" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="61.85295967772744" y1="47.271848132311334" x2="61.852959677727426" y2="43.57184813231131" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60.852959677727426" y1="47.27184813231132" x2="60.85295967772743" y2="59.871848132311314" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="81.85295967772744" y1="47.27184813231132" x2="81.85295967772744" y2="43.571848132311324" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="81.85295967772744" y1="47.27184813231132" x2="82.85295967772744" y2="47.271848132311305" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="81.85295967772745" y1="59.871848132311314" x2="82.85295967772744" y2="59.87184813231132" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="82.85295967772744" y1="59.87184813231132" x2="82.85295967772744" y2="47.271848132311305" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="66.85295967772741" y1="63.571848132311274" x2="76.85295967772747" y2="63.57184813231134" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="81.85295967772744" y1="63.57184813231133" x2="82.85295967772744" y2="63.571848132311324" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="61.85295967772744" y1="63.57184813231138" x2="60.852959677727426" y2="63.571848132311366" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60.852959677727426" y1="63.571848132311366" x2="60.85295967772744" y2="68.57184813231139" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="82.85295967772744" y1="63.571848132311324" x2="82.85295967772744" y2="68.57184813231132" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60.85295967772744" y1="68.57184813231139" x2="82.85295967772744" y2="68.57184813231132" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="61.852959677727426" y1="43.57184813231131" x2="60.85295967772744" y2="43.57184813231134" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="81.85295967772744" y1="43.57184813231132" x2="82.85295967772743" y2="43.57184813231132" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="66.85295967772743" y1="43.57184813231131" x2="76.85295967772744" y2="43.571848132311324" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60.85295967772744" y1="43.57184813231134" x2="60.85295967772743" y2="38.57184813231133" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="82.85295967772743" y1="43.57184813231132" x2="82.85295967772743" y2="38.57184813231132" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="60.85295967772743" y1="38.57184813231133" x2="82.85295967772743" y2="38.57184813231132" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Circle -->
+            <circle cx="45.524672544027" cy="45.60966452332933" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="50.524672544027" y1="51.90966452332932" x2="40.52467254402701" y2="51.90966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="40.524672544026984" y1="55.609664523329286" x2="40.52467254402701" y2="51.90966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="50.52467254402704" y1="55.60966452332934" x2="50.524672544027" y2="51.90966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="50.52467254402699" y1="39.30966452332932" x2="40.524672544027" y2="39.30966452332932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="50.52467254402699" y1="39.30966452332932" x2="50.52467254402701" y2="35.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="40.524672544027" y1="39.30966452332932" x2="40.524672544027005" y2="35.609664523329315" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="55.52467254402702" y1="55.60966452332934" x2="55.52467254402703" y2="51.909664523329326" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="35.52467254402701" y1="55.609664523329386" x2="35.52467254402701" y2="51.90966452332934" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="35.52467254402701" y1="51.90966452332934" x2="34.524672544027005" y2="51.90966452332932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="35.52467254402701" y1="39.30966452332934" x2="34.524672544027" y2="39.30966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="35.52467254402701" y1="39.30966452332934" x2="35.524672544027" y2="35.60966452332932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="34.524672544027" y1="39.30966452332933" x2="34.524672544027005" y2="51.90966452332932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="55.52467254402701" y1="39.30966452332933" x2="55.524672544027005" y2="35.609664523329336" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="55.52467254402701" y1="39.30966452332933" x2="56.524672544027005" y2="39.30966452332932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="55.52467254402703" y1="51.909664523329326" x2="56.52467254402701" y2="51.909664523329326" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="56.52467254402701" y1="51.909664523329326" x2="56.524672544027005" y2="39.30966452332932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="40.524672544026984" y1="55.609664523329286" x2="50.52467254402704" y2="55.60966452332934" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="55.52467254402702" y1="55.60966452332934" x2="56.52467254402702" y2="55.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="35.52467254402701" y1="55.609664523329386" x2="34.524672544027" y2="55.60966452332937" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="34.524672544027" y1="55.60966452332937" x2="34.52467254402701" y2="60.6096645233294" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="56.52467254402702" y1="55.60966452332933" x2="56.52467254402702" y2="60.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="34.52467254402701" y1="60.6096645233294" x2="56.52467254402702" y2="60.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="35.524672544027" y1="35.60966452332932" x2="34.52467254402701" y2="35.60966452332934" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="55.52467254402701" y1="35.60966452332933" x2="56.524672544027005" y2="35.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="40.524672544027005" y1="35.609664523329315" x2="50.52467254402701" y2="35.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="34.52467254402701" y1="35.60966452332934" x2="34.524672544027005" y2="30.60966452332934" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="56.524672544027005" y1="35.60966452332933" x2="56.524672544027" y2="30.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="34.524672544027005" y1="30.60966452332934" x2="56.524672544027" y2="30.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Circle -->
+            <circle cx="22.275096405799612" cy="45.60966452332933" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="27.27509640579961" y1="51.90966452332932" x2="17.275096405799623" y2="51.90966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="17.275096405799598" y1="55.609664523329286" x2="17.275096405799623" y2="51.90966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="27.27509640579965" y1="55.60966452332934" x2="27.275096405799605" y2="51.90966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="27.2750964057996" y1="39.30966452332932" x2="17.275096405799605" y2="39.30966452332932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="27.2750964057996" y1="39.30966452332932" x2="27.275096405799626" y2="35.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="17.275096405799605" y1="39.30966452332932" x2="17.275096405799616" y2="35.609664523329315" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="32.27509640579963" y1="55.60966452332934" x2="32.27509640579964" y2="51.909664523329326" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="12.275096405799623" y1="55.609664523329386" x2="12.275096405799623" y2="51.90966452332934" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="12.275096405799623" y1="51.90966452332934" x2="11.275096405799616" y2="51.90966452332932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="12.27509640579962" y1="39.30966452332934" x2="11.275096405799609" y2="39.30966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="12.27509640579962" y1="39.30966452332934" x2="12.275096405799605" y2="35.60966452332932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="11.275096405799609" y1="39.30966452332933" x2="11.275096405799616" y2="51.90966452332932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="32.275096405799616" y1="39.30966452332933" x2="32.275096405799616" y2="35.609664523329336" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="32.275096405799616" y1="39.30966452332933" x2="33.275096405799616" y2="39.30966452332932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="32.27509640579964" y1="51.909664523329326" x2="33.27509640579962" y2="51.909664523329326" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="33.27509640579962" y1="51.909664523329326" x2="33.275096405799616" y2="39.30966452332932" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="17.275096405799598" y1="55.609664523329286" x2="27.27509640579965" y2="55.60966452332934" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="32.27509640579963" y1="55.60966452332934" x2="33.27509640579963" y2="55.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="12.275096405799623" y1="55.609664523329386" x2="11.275096405799609" y2="55.60966452332937" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="11.275096405799609" y1="55.60966452332937" x2="11.275096405799623" y2="60.6096645233294" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="33.27509640579963" y1="55.60966452332933" x2="33.27509640579963" y2="60.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="11.275096405799623" y1="60.6096645233294" x2="33.27509640579963" y2="60.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="12.275096405799605" y1="35.60966452332932" x2="11.27509640579962" y2="35.60966452332934" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="32.27509640579962" y1="35.60966452332933" x2="33.275096405799616" y2="35.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="17.275096405799616" y1="35.609664523329315" x2="27.275096405799626" y2="35.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="11.27509640579962" y1="35.60966452332934" x2="11.275096405799616" y2="30.60966452332934" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="33.275096405799616" y1="35.60966452332933" x2="33.275096405799616" y2="30.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="11.275096405799616" y1="30.60966452332934" x2="33.275096405799616" y2="30.60966452332933" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Line -->
+            <line x1="-20" y1="63" x2="-15" y2="63" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-15" y1="63" x2="-15" y2="59.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-20" y1="63" x2="-20" y2="59.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-15" y1="59.3" x2="-10" y2="59.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-20" y1="59.3" x2="-25" y2="59.3" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-10" y1="59.3" x2="-10" y2="46.5" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-25" y1="59.3" x2="-25" y2="46.5" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-25" y1="46.5" x2="-20" y2="46.5" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-20" y1="46.5" x2="-20" y2="42.8" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-20" y1="42.8" x2="-15" y2="42.8" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-15" y1="42.8" x2="-15" y2="46.5" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-15" y1="46.5" x2="-10" y2="46.5" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Circle -->
+            <circle cx="-17.5" cy="52.9" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Line -->
+            <line x1="-40.099999999999994" y1="67.49999999999999" x2="-40.1" y2="72.5" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-40.1" y1="72.5" x2="-36.39999999999999" y2="72.49999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-40.099999999999994" y1="67.49999999999999" x2="-36.39999999999999" y2="67.49999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-36.39999999999999" y1="72.49999999999999" x2="-36.39999999999999" y2="77.49999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-36.39999999999999" y1="67.49999999999999" x2="-36.39999999999999" y2="62.499999999999986" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-36.39999999999999" y1="77.49999999999999" x2="-23.599999999999994" y2="77.49999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-36.39999999999999" y1="62.499999999999986" x2="-23.59999999999999" y2="62.499999999999986" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-23.59999999999999" y1="62.499999999999986" x2="-23.6" y2="67.49999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-23.6" y1="67.49999999999999" x2="-19.89999999999999" y2="67.49999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-19.89999999999999" y1="67.49999999999999" x2="-19.89999999999999" y2="72.49999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-19.89999999999999" y1="72.49999999999999" x2="-23.599999999999998" y2="72.49999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-23.599999999999998" y1="72.49999999999999" x2="-23.599999999999994" y2="77.49999999999999" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Circle -->
+            <circle cx="-29.999999999999993" cy="69.99999999999999" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Line -->
+            <line x1="-41.8224909274459" y1="84.18775540502946" x2="-41.8224909274459" y2="89.18775540502948" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-41.8224909274459" y1="89.18775540502948" x2="-38.12249092744589" y2="89.18775540502946" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-41.8224909274459" y1="84.18775540502946" x2="-38.122490927445895" y2="84.18775540502946" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-38.12249092744589" y1="89.18775540502946" x2="-38.12249092744589" y2="94.18775540502946" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-38.122490927445895" y1="84.18775540502946" x2="-38.122490927445895" y2="79.18775540502946" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-38.12249092744589" y1="94.18775540502946" x2="-25.322490927445894" y2="94.18775540502946" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-38.122490927445895" y1="79.18775540502946" x2="-25.32249092744589" y2="79.18775540502946" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-25.32249092744589" y1="79.18775540502946" x2="-25.322490927445898" y2="84.18775540502946" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-25.322490927445898" y1="84.18775540502946" x2="-21.62249092744589" y2="84.18775540502946" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-21.62249092744589" y1="84.18775540502946" x2="-21.62249092744589" y2="89.18775540502946" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-21.62249092744589" y1="89.18775540502946" x2="-25.322490927445898" y2="89.18775540502946" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-25.322490927445898" y1="89.18775540502946" x2="-25.322490927445894" y2="94.18775540502946" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Circle -->
+            <circle cx="-31.722490927445897" cy="86.68775540502946" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Line -->
+            <line x1="-41.20036751227756" y1="100.82955676078258" x2="-41.200367512277566" y2="105.8295567607826" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-41.200367512277566" y1="105.8295567607826" x2="-37.50036751227755" y2="105.82955676078258" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-41.20036751227756" y1="100.82955676078258" x2="-37.50036751227755" y2="100.82955676078258" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-37.50036751227755" y1="105.82955676078258" x2="-37.50036751227755" y2="110.82955676078258" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-37.50036751227755" y1="100.82955676078258" x2="-37.500367512277556" y2="95.82955676078258" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-37.50036751227755" y1="110.82955676078258" x2="-24.700367512277555" y2="110.82955676078258" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-37.500367512277556" y1="95.82955676078258" x2="-24.700367512277552" y2="95.82955676078258" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-24.700367512277552" y1="95.82955676078258" x2="-24.70036751227756" y2="100.82955676078258" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-24.70036751227756" y1="100.82955676078258" x2="-21.000367512277553" y2="100.82955676078258" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-21.000367512277553" y1="100.82955676078258" x2="-21.000367512277553" y2="105.82955676078258" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-21.000367512277553" y1="105.82955676078258" x2="-24.70036751227756" y2="105.82955676078258" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-24.70036751227756" y1="105.82955676078258" x2="-24.700367512277555" y2="110.82955676078258" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Circle -->
+            <circle cx="-31.100367512277558" cy="103.32955676078258" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+        <!-- Block Reference -->
+        <g>
+            <!-- Line -->
+            <line x1="-10.560789315236786" y1="35.817659875690985" x2="-10.56078931523679" y2="40.81765987569099" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-10.56078931523679" y1="40.81765987569099" x2="-6.860789315236776" y2="40.817659875690985" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-10.560789315236786" y1="35.817659875690985" x2="-6.860789315236779" y2="35.81765987569098" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-6.860789315236776" y1="40.817659875690985" x2="-6.860789315236776" y2="45.81765987569098" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-6.860789315236779" y1="35.81765987569098" x2="-6.860789315236783" y2="30.81765987569099" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-6.860789315236776" y1="45.81765987569098" x2="5.939210684763218" y2="45.817659875690985" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="-6.860789315236783" y1="30.81765987569099" x2="5.939210684763222" y2="30.817659875690985" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="5.939210684763222" y1="30.817659875690985" x2="5.9392106847632125" y2="35.817659875690985" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="5.9392106847632125" y1="35.817659875690985" x2="9.639210684763222" y2="35.817659875690985" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="9.639210684763222" y1="35.817659875690985" x2="9.63921068476322" y2="40.817659875690985" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="9.63921068476322" y1="40.817659875690985" x2="5.939210684763215" y2="40.817659875690985" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Line -->
+            <line x1="5.939210684763215" y1="40.817659875690985" x2="5.939210684763218" y2="45.817659875690985" style="stroke:#ff0000;stroke-width:0.25;"/>
+            <!-- Circle -->
+            <circle cx="-0.46078931523678257" cy="38.317659875690985" r="4.2" style="stroke:#ff0000;stroke-width:0.25;"/>
+        </g>
+    </g>
 </svg>
